@@ -1,0 +1,10 @@
+D:\Notes(C#)\Notes\Notes\bin\Release\Notes.exe.config
+D:\Notes(C#)\Notes\Notes\bin\Release\Notes.exe
+D:\Notes(C#)\Notes\Notes\bin\Release\Notes.pdb
+D:\Notes(C#)\Notes\Notes\obj\Release\Notes.csproj.AssemblyReference.cache
+D:\Notes(C#)\Notes\Notes\obj\Release\Notes.Notes.resources
+D:\Notes(C#)\Notes\Notes\obj\Release\Notes.Properties.Resources.resources
+D:\Notes(C#)\Notes\Notes\obj\Release\Notes.csproj.GenerateResource.cache
+D:\Notes(C#)\Notes\Notes\obj\Release\Notes.csproj.CoreCompileInputs.cache
+D:\Notes(C#)\Notes\Notes\obj\Release\Notes.exe
+D:\Notes(C#)\Notes\Notes\obj\Release\Notes.pdb
